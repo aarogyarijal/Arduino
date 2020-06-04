@@ -22,4 +22,4 @@ while total!=0:
 		total = total - 1
 		s=s+1
 		print ("update1:", total)
-print(s)
+print ("Change:",s)
