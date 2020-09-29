@@ -42,8 +42,8 @@ char auth[] = "z7aw5ytzLHS0BCpgVsmjq9-UE1PndMBL";
 //
 //// Your WiFi credentials.
 //// Set password to "" for open networks.
-char ssid[] = "krishnarijal_wlink";
-char pass[] = "434C2B2690";
+char ssid[] = "xxx";
+char pass[] = "xxx";
 
 BLYNK_WRITE(V1)
 {
